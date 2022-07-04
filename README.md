@@ -12,4 +12,4 @@ This project includes the use of adjusting icons (from [Font Awesome](https://fo
 The user sign-in form includes basic Forms in HTML, adjusting icons and layouts, and designing good hierarchy systems.
 
 All projects are completed during the summer of 2022.
-Sources gained from: [Code With Mosh](codewithmosh.com)
+Sources gained from: [Code With Mosh](https://codewithmosh.com/)
