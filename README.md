@@ -1,6 +1,6 @@
 # Small Projects
 
-> These are Jay's first three projects in HTML/CSS.
+> These are Jay's first four projects in HTML/CSS.
 
 ## Hubble Banner
 This project includes the use of background images, Google fonts, and basic layouts.
