@@ -14,8 +14,9 @@ The user sign-in form includes basic Forms in HTML, adjusting icons and layouts,
 ## Name Card
 Using CSS animations, basic layouts, and integrating the techniques in previous sections, I created a name card for myself.
 
-![projects](https://user-images.githubusercontent.com/100735820/177608017-01fd4c2b-ec05-44a0-93c5-de77c8f999ad.jpeg =100x20)
+Here is a preview of the projects:
 
+![WechatIMG471](https://user-images.githubusercontent.com/100735820/177614782-0704cdb3-390d-4521-b6cd-f73a99c2bf36.jpeg)
 
 
 All projects are completed during the summer of 2022.
