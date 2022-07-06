@@ -1,0 +1,57 @@
+html{
+    font-size: 62.5%;
+    background: #f9f9f9;
+}
+
+.card{
+    width: 500px;
+    height: fit-content;
+    font-size: 2rem;
+    font-family: 'Inter';
+    /*below is animation commands*/
+    transition: transform 0.3s ease-in;
+    transform: rotate(-5deg);
+    box-shadow: 0 0 20px 30px #f9f9f9;
+    line-height: 1.5;
+}
+
+
+.card:hover{
+    transform: rotate(0);
+}
+
+.card:hover .profile{
+    transition: transform 0.3s ease-in;
+    transform: scale(1.15);
+}
+
+.card-content{ 
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    background: white;
+    padding: 2rem 2rem 2rem 4rem;
+}
+
+.profile{
+    display: inline;
+    border: white 4px solid;
+    border-radius: 50%;
+    max-width: 50px;
+    max-height: 50px;
+    margin-right: 2rem;
+}
+
+.card-footer{
+    display: flex;
+    align-items: center;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px; /* TODO: solve border-radius inheritance*/
+    background: rgb(116,214,144);
+    background: radial-gradient(circle, rgba(116,214,144,1) 21%, rgba(92,191,187,1) 100%);
+    color: white;
+    padding: 2rem 2rem 2rem 4rem;
+}
+
+@media screen and (max-width: 500px) {
+    
+}
